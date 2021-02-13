@@ -153,6 +153,9 @@
     /* Rsponsive Design */
     
     @media (max-width:1028px) {
+        .container-fluid {
+            padding: 7% 7%;
+        }
         .big-heading {
             font-weight: 900;
             font-size: 3rem;
@@ -176,5 +179,8 @@
         .price-text {
             font-size: 2rem;
             line-height: 1.5;
+        }
+        #pricing {
+            padding: 50px;
         }
     }
