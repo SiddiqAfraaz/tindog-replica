@@ -187,4 +187,8 @@
         #pricing {
             padding: 50px;
         }
+        .press-logo {
+            width: 15%;
+            margin: 20px 15px 50px;
+        }
     }
